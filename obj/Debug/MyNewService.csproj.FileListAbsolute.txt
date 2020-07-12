@@ -1,0 +1,10 @@
+C:\VisualStudioProjects\MyNewService\MyNewService\bin\Debug\MyNewService.exe.config
+C:\VisualStudioProjects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+C:\VisualStudioProjects\MyNewService\MyNewService\bin\Debug\MyNewService.pdb
+C:\VisualStudioProjects\MyNewService\MyNewService\obj\Debug\MyNewService.csprojAssemblyReference.cache
+C:\VisualStudioProjects\MyNewService\MyNewService\obj\Debug\MyNewService.MyNewService.resources
+C:\VisualStudioProjects\MyNewService\MyNewService\obj\Debug\MyNewService.ProjectInstaller.resources
+C:\VisualStudioProjects\MyNewService\MyNewService\obj\Debug\MyNewService.csproj.GenerateResource.cache
+C:\VisualStudioProjects\MyNewService\MyNewService\obj\Debug\MyNewService.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\MyNewService\MyNewService\obj\Debug\MyNewService.exe
+C:\VisualStudioProjects\MyNewService\MyNewService\obj\Debug\MyNewService.pdb

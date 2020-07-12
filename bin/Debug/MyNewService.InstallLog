@@ -1,0 +1,22 @@
+﻿Instalando ensamblado 'C:\VisualStudioProjects\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\VisualStudioProjects\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\VisualStudioProjects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Instalando el servicio MyNewService...
+El servicio MyNewService se ha instalado correctamente.
+Creando el origen de EventLog MyNewService en el registro Application...
+Confirmando ensamblado 'C:\VisualStudioProjects\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\VisualStudioProjects\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\VisualStudioProjects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Desinstalando ensamblado 'C:\VisualStudioProjects\MyNewService\MyNewService\bin\Debug\MyNewService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\VisualStudioProjects\MyNewService\MyNewService\bin\Debug\MyNewService.InstallLog
+   assemblypath = C:\VisualStudioProjects\MyNewService\MyNewService\bin\Debug\MyNewService.exe
+Quitando el origen de EventLog MyNewService.
+Se está quitando el servicio MyNewService del sistema...
+El servicio MyNewService se ha quitado correctamente del sistema.
+Intento de detener el servicio MyNewService.
